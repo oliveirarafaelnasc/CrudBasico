@@ -1,0 +1,41 @@
+1º Nome não pode estar em branco e deve ter mais que 5 caracteres
+
+2º Cpf ou Cnpj tem quer estar preenchido e ser valido
+
+3º Sexo tem que estar preenchido 
+	1 para masculino 
+	2 para feminino
+
+4º Estado civil obrigatório 
+		Solteiro = 0,
+        Casado = 1,
+        Viúvo = 2,
+        Divorciado = 3
+
+5º Rg tem que ser preenchido e ter mais que 5 caracteres
+
+6º Data de nascimento deve ser informada junto com a idade e deve ser maior que 18
+
+7º Salario Superior a 1500, calculando 6% de imposto
+
+8º Email obrigatório e valido
+
+9º Telefone obrigatório, 
+	ddd ter 2 caracteres e não começar com 0 
+	telefone ter entre 8 e 9 e não começar com 0
+
+10º Endereço obrigatório, 
+	Logradouro obrigatório
+	Número não obrigatório
+	Complemento não obrigatório
+	Bairro obrigatório
+	Cidade obrigatório
+	Estado obrigatório com 2 caracteres
+	Cep obrigatório com 8 caracteres
+
+
+11º Aceitar Termo é obrigatório
+
+12º observação deve ter no máximo 150, mas não é obrigatório
+
+13º Senha obrigatória, com mais de 5 caracteres e validar se a mesma de confirmar senha

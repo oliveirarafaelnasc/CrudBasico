@@ -1,0 +1,17 @@
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.deps.json
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.runtimeconfig.json
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.runtimeconfig.dev.json
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.dll
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.pdb
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.dll
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.dll
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.pdb
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.pdb
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.csprojAssemblyReference.cache
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.csproj.CoreCompileInputs.cache
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.AssemblyInfoInputs.cache
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.AssemblyInfo.cs
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.csproj.CopyComplete
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.dll
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.pdb
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Infra.Repository\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Infra.Repository.genruntimeconfig.cache

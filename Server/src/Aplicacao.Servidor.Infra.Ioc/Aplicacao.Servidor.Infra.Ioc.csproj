@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.3" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacao.Servidor.Domain\Aplicacao.Servidor.Domain.csproj" />
+    <ProjectReference Include="..\Aplicacao.Servidor.Infra.Data\Aplicacao.Servidor.Infra.Data.csproj" />
+    <ProjectReference Include="..\Aplicacao.Servidor.Infra.Repository\Aplicacao.Servidor.Infra.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

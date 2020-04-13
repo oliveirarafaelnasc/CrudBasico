@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Home Crud</title>
+    <meta charset="utf-8">
+    <link href="Style/toastr.min.css" rel="stylesheet"/>
+    <link type="text/css" rel="stylesheet" href="Style/Home.css"></link> 
+   
+  </head>
+  <body>
+
+        <div class="container">
+
+          <div class="sub-container">
+              <label>Nome</label>
+              <input type="text" id="idNome" placeholder="Digite seu nome" class="textwidth300 espaco-direita50"></input>  
+              <label>Cpf/Cnpj</label>
+              <input type="text" id="idCpfCnpj" placeholder="Digite seu Cpf ou Cnpj" class="espaco-direita50"></input>  
+              <label>Rg</label>
+              <input type="text" id="idRg" placeholder="Digite seu Rg"></input>  
+          </div>
+          
+          <div class="sub-container">
+              <div class="divwidth300">
+                <label>Sexo</label>
+                <input type="radio" id="idMasculino" name="sexo"></input><label for="idmasculino">Masculino</label>
+                <input type="radio" id="idFeminino" name="sexo"></input><label for="idFeminino">Feminino</label>
+              </div>
+              <label>Estado Civil</label>
+              <select id="idEstadoCivil" >
+                <option value="0">Selecione</option>
+                <option value="1">Solteiro</option>
+                <option value="2">Casado</option>
+                <option value="3">Divorciado</option>
+                <option value="4">Viúvo</option>
+              </select>
+          </div>
+          
+           
+
+          <div class="sub-container">
+              <label>Data Nascimento</label>
+              <input type="text" id="idDataNascimento" placeholder="Digite a data de nascimento dd/MM/aaaa"  maxlength="10" class="textwidth250"></input>  
+              <label>Idade</label>
+              <input type="text" id="idIdade" placeholder="Digite seu idade" maxlength="3"></input>
+          </div>          
+
+          <div class="sub-container">
+            <label>Salário</label>
+            <input type="text" id="idSalario" placeholder="Digite seu salário 0,00" value="0,00"  ></input>  
+          </div>          
+
+          <div class="sub-container">
+            <label>Email</label>
+            <input type="text" id="idEmail" placeholder="Digite seu email" class="textwidth500"></input>  
+          </div>          
+
+          <div class="sub-container">
+            <label>Telefone</label>
+            <input type="text" id="idDdd" placeholder="DDD" maxlength="2" class="textwidth50"></input>  
+            <input type="text" id="idFone" placeholder="Fone" maxlength="10"></input>  
+          </div>          
+
+          <div class="sub-container">
+              <label>Cep</label>
+              <input type="text" id="idCep" placeholder="" maxlength="8"></input>  
+              <button id="idConsultarCep">Consultar Cep</button>
+          </div>     
+
+          <div class="sub-container">
+              <label>Logradouro</label>
+              <input type="text" id="idLogradouro" placeholder="" class="textwidth300"></input>  
+              <label>Numero</label>
+              <input type="text" id="idNumero" placeholder=""></input> 
+          </div>          
+
+          <div class="sub-container">
+              <label>Complemento</label>
+              <input type="text" id="idComplemento" placeholder="" class="textwidth300"></input>  
+              <label>Bairro</label>
+              <input type="text" id="idBairro" placeholder=""></input> 
+          </div>          
+
+          <div class="sub-container">
+              <label>Cidade</label>
+              <input type="text" id="idCidade" placeholder="" class="textwidth300"></input>  
+              <label>Estado</label>
+              <select name="" id="idEstado"></select>
+          </div> 
+
+          <div class="sub-container">
+              <label>Senha</label>
+              <input type="password" id="idSenha" placeholder=""></input>  
+              <label>Confirma Senha</label>
+              <input type="password" id="idConfirmaSenha" placeholder=""></input>
+          </div>   
+          
+          <div class="sub-container">
+
+            
+            <label class="label-termo">Aceita o termo</label>
+            <input type="checkbox" id="idTermo" ></input>  
+          </div>  
+
+          <div class="sub-container">
+            <label>Observação</label>
+            <textarea name="" id="idObservacao" rows="5" cols="33" class="text-area-width"></textarea>
+          </div>      
+
+        </div>
+        <div class="sub-container">
+          <button id="idCadastrar">Cadastrar</button>
+        </div>
+        <div class="sub-container">
+          <label>Cpf/Cnpj</label>
+          <input type="text" id="idConsutarCpfCnpj" placeholder="Digite seu Cpf ou Cnpj" class="espaco-direita50"></input>  
+          <button id="idConsultar">Consultar</button>
+        </div>
+        <div class="sub-container">
+          <button id="idApagar">Apagar</button>
+        </div>
+
+
+        <div class="erros-caixa texto-preto" id="id-caixa_erro">
+          <span id="id_span_erro_x" class="close">X</span>
+          <p>
+            <span id="id_span_erros">Erros encontrados! 
+              <ul id="id_ul_erros">
+              </ul>
+            </span>
+          </p>
+        </div>
+  </body>
+  
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script src="Script/toastr.min.js"></script>
+  <script src="Script/myScriptValidation.js"></script>
+  <script src="Script/myScript.js"></script>
+
+  
+</html>

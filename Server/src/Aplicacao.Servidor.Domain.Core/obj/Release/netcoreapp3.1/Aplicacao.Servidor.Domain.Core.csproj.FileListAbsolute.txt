@@ -1,0 +1,9 @@
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.deps.json
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.dll
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\bin\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.pdb
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.csprojAssemblyReference.cache
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.AssemblyInfoInputs.cache
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.AssemblyInfo.cs
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.dll
+D:\Ph0d60\ROTestes\CrudBasico\Server\src\Aplicacao.Servidor.Domain.Core\obj\Release\netcoreapp3.1\Aplicacao.Servidor.Domain.Core.pdb
