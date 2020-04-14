@@ -1,7 +1,7 @@
 # CrudBasico
 Teste Crud Básico com algumas regras de cadastros e testes
 
-Front 
+<h3>Front<h3/> 
 
   •	JavaScript
   
@@ -9,16 +9,12 @@ Front
   
   •	Html
   
-Componente
+<h3>Componente<h3/>
 
   •	Toastr -> para notificações
 
 
-
-
-
-
-C# com Core v 3.1
+<h3>C# com Core v 3.1<h3/>
 
   •	Repository Pattern
   
@@ -31,10 +27,10 @@ C# com Core v 3.1
   •	Testes de unidade e integração
   
   
-  
+  <hr/>
   
 
-Regras
+<h3>Regras<h3/>
 
 
 
