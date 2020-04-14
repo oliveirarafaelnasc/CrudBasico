@@ -14,6 +14,10 @@ Componente
   •	Toastr -> para notificações
 
 
+
+
+
+
 C# com Core v 3.1
 
   •	Repository Pattern
@@ -25,8 +29,14 @@ C# com Core v 3.1
   •	Notifications
   
   •	Testes de unidade e integração
+  
+  
+  
+  
 
 Regras
+
+
 
 1º Nome não pode estar em branco e deve ter mais que 5 caracteres
 
